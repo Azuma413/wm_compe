@@ -1,0 +1,18 @@
+[project]
+name = "wm-compe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ale-py==0.8.0",
+    "autorom>=0.4.2",
+    "gym[accept-rom-license,atari]==0.26.2",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.3",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.2.3",
+    "torchrl>=0.7.1",
+    "wandb[media]>=0.19.7",
+]

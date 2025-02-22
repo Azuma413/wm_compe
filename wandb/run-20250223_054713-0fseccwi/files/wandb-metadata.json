@@ -1,0 +1,41 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.10.16",
+  "startedAt":  "2025-02-22T20:47:14.029777Z",
+  "program":  "e:\\SourceCode\\VScode\\wm_compe\\tdmpc_square.ipynb",
+  "codePath":  "tdmpc_square.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Azuma413/wm_compe.git"
+  },
+  "email":  "hirekatsu0523@gmail.com",
+  "root":  "e:\\SourceCode\\VScode\\wm_compe",
+  "host":  "desktop",
+  "executable":  "e:\\SourceCode\\VScode\\wm_compe\\.venv\\Scripts\\python.exe",
+  "codePathLocal":  "tdmpc_square.ipynb",
+  "cpu_count":  12,
+  "cpu_count_logical":  24,
+  "gpu":  "NVIDIA GeForce RTX 3090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1000068870144",
+      "used":  "694745169920"
+    }
+  },
+  "memory":  {
+    "total":  "136567107584"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  24
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 3090",
+      "memoryTotal":  "25769803776",
+      "cudaCores":  10496,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.8"
+}
