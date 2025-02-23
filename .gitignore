@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 log/
+log1/
+wandb/
